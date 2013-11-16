@@ -1,5 +1,1 @@
-copy con file_2.txt
-dir
-ls
-copy test.txt
-git status
+this is test text
