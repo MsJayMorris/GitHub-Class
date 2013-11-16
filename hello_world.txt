@@ -1,4 +1,5 @@
 hello world
+<<<<<<< HEAD
 
 this is the second set of text.
 
@@ -9,3 +10,6 @@ this is the fourth set of text.
 this is the 5th set of text.
 
 
+=======
+this is a test file
+>>>>>>> parent of 7e25e1f... this is the second commit
