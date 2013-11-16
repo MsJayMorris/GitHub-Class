@@ -1,0 +1,5 @@
+copy con file_2.txt
+dir
+ls
+copy test.txt
+git status
