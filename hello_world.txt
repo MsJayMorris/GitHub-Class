@@ -1,7 +1,5 @@
 hello world
 
-this is a test bunch of text
-
 this is the second set of text.
 
 this is the third set of text.
